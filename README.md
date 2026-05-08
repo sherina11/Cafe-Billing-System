@@ -1,4 +1,4 @@
-# ☕ Cafe Billing System (C Project)
+# ☕ Cafe Billing System 
 
 ## 📌 Description
 This project is developed using the C programming language.  
