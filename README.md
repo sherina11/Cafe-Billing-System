@@ -44,7 +44,7 @@ cafe.exe
 
 ## 👩‍💻 Author
 - Raja Sherina T
-- CSE
+- CSE Dept
 
 ---
 
